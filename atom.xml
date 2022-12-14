@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>2022211261，2022211309，张芷语</title>
+  
+  <subtitle>专注网站建设优化</subtitle>
+  <link href="https://zzyzzy0601.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zzyzzy0601.github.io/"/>
+  <updated>2022-12-14T05:29:32.065Z</updated>
+  <id>https://zzyzzy0601.github.io/</id>
+  
+  <author>
+    <name>张芷语</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://zzyzzy0601.github.io/academia-example.html"/>
+    <id>https://zzyzzy0601.github.io/academia-example.html</id>
+    <published>2022-12-14T05:29:32.065Z</published>
+    <updated>2022-12-14T05:29:32.065Z</updated>
+    
+    <content type="html"><![CDATA[<p>2022211261</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2022211261&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://zzyzzy0601.github.io/hello-world.html"/>
+    <id>https://zzyzzy0601.github.io/hello-world.html</id>
+    <published>2022-12-14T05:29:32.065Z</published>
+    <updated>2022-12-14T05:29:32.065Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>it is from 2022211261，2022211309，张芷语</p></blockquote><h1 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h1><p>This is a simple page for academic website based on Hexo. It just provides a theme frame and all depends on your markdown posts’ styles.</p><p>This is the index page which organized with the posts you write in markdown files.</p><h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><h1 id="More-Academia"><a href="#More-Academia" class="headerlink" title="More Academia"></a>More Academia</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;it is from 2022211261，2022211309，张芷语&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

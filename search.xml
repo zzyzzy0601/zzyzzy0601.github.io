@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title></title>
+    <url>/academia-example.html</url>
+    <content><![CDATA[<p>2022211261</p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/hello-world.html</url>
+    <content><![CDATA[<blockquote>
+<p>it is from 2022211261，2022211309，张芷语</p>
+</blockquote>
+<h1 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h1><p>This is a simple page for academic website based on Hexo. It just provides a theme frame and all depends on your markdown posts’ styles.</p>
+<p>This is the index page which organized with the posts you write in markdown files.</p>
+<h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1><h1 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h1><h1 id="More-Academia"><a href="#More-Academia" class="headerlink" title="More Academia"></a>More Academia</h1>]]></content>
+  </entry>
+</search>
